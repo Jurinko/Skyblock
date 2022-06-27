@@ -1,2 +1,2 @@
 # Skyblock
-this is skyblock
+Skyblock je multiplayer server na slavnej komunite menom minecraft hypixel skyblock.
